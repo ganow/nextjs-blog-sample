@@ -2,6 +2,7 @@ nextjs-blog-sample
 =========================
 
 Minimum scaffold of blogging system with [Next.js](https://github.com/zeit/next.js) using in [ganow.me](http://ganow.me).
+Detailed explanation is summarized in [ganow's blog](http://ganow.me/article/blog-system-configuration) (written in Japanese only).
 
 The system realizes
 
